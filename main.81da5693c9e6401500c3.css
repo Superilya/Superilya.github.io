@@ -245,7 +245,7 @@ a {
 .main-block__macbook-img {
     max-width: 100%;
     position: absolute;
-    top: 0;
+    top: -17px;
     left: 710px;
     margin-top: 36px;
 }
