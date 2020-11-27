@@ -475,6 +475,7 @@ textarea.input {
 
     .twine__actions {
         flex-direction: column;
+        width: 100%;
     }
 
     .twine__input + .twine__input {
