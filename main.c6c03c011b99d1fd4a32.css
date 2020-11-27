@@ -91,6 +91,7 @@ a {
 }
 .text {
     font-size: 18px;
+    line-height: 21px;
 }
 
 .text.text_size_s {
@@ -111,10 +112,15 @@ a {
 
 .text.text_header {
     font-size: 30px;
+    line-height: 32px;
 }
 
 .text.text_center {
     text-align: center;
+}
+
+.text > p {
+    margin: 10px 0;
 }
 
 
@@ -148,7 +154,7 @@ a {
     padding: 16px 21px;
 }
 
-.button_color_black {
+.button.button_color_black {
     background-color: #18191F;
     color: white;
     box-shadow: none;
